@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Proovedores</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="form-validation.css" rel="stylesheet">
+</head>
+
+<body class="bg-light">
+
+    <div class="container">
+        <div class="py-5 text-center">
+            <h2>PROVEEDORES</h2>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 order-md-1">
+                <form class="needs-validation" novalidate>
+                    <div class="row g-3">
+                        <div class="col-sm-6">
+                            <label for="firstName" class="form-label">Nombre</label>
+                            <input type="text" class="form-control" id="name" placeholder="" value="" required>
+                            <div class="invalid-feedback">
+                                Nombre requerido
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6">
+                            <label for="lastName" class="form-label">Razon docial</label>
+                            <input type="text" class="form-control" id="razonSocial" placeholder="" value="" required>
+                            <div class="invalid-feedback">
+                                Razon social requerido
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <label for="address" class="form-label">Direccion</label>
+                            <input type="text" class="form-control" id="address" placeholder="" required>
+                            <div class="invalid-feedback">
+                                Dirección requerida
+                            </div>
+                        </div>
+                        <hr class="my-4">
+                        <button class="w-100 btn btn-primary btn-lg" type="submit">Alta de Proveedor</button>
+                    </div>
+                </form>
+            </div>
+            <div class="col-md-12 order-md-2 mb-4">
+                <h4 class="d-flex align-items-center mb-3">
+                    <span class="text-muted">Lista Proveedores</span>
+                </h4>
+                <ul id="listaPagos" class="list-group mb-3">
+                    <table id="tablaProveedor" class="table">
+                        <tr>
+                            <td>Nombre</td>
+                            <td>Rason Social</td>
+                            <td>Dirección</td>
+                            <td>Borrar</td>
+                        </tr>
+                    </table>
+                </ul>
+            </div>
+        </div>
+
+        <footer class="my-5 pt-5 text-muted text-center text-small">
+            <p class="mb-1">&copy; 2022 armin.moon</p>
+            <ul class="list-inline">
+            </ul>
+        </footer>
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="dist/js/bootstrap.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $.ajax({
+                url: "http://localhost:8080/api/v1/gapsi/ecommerce/proveedor/"
+            }).then(function(json) {
+                for (var i = 0; i < json.proveedores.length; i++) {
+                    var tabladiv = '<tr><td>' +
+                        json.proveedores[i].nombre + '</td><td>' +
+                        json.proveedores[i].razonSocial + '</td><td>' +
+                        json.proveedores[i].direccion + '</td>' +
+                        '<td><input class="button-primary" type="button" value="Borrar"></td></tr>'
+                    $('#tablaProveedor').append(tabladiv);
+                }
+
+            });
+
+            $('#tablaProveedor').on('click', 'tbody tr', function(event) {
+                $(this).addClass('highlight').siblings().removeClass('highlight');
+            });
+
+
+
+            (function() {
+                'use strict'
+
+                // Fetch all the forms we want to apply custom Bootstrap validation styles to
+                var forms = document.querySelectorAll('.needs-validation')
+
+                // Loop over them and prevent submission
+                Array.prototype.slice.call(forms)
+                    .forEach(function(form) {
+                        form.addEventListener('submit', function(event) {
+                            if (!form.checkValidity()) {
+                                event.preventDefault()
+                                event.stopPropagation()
+                            }
+
+                            form.classList.add('was-validated')
+                        }, false)
+                    })
+            })()
+
+            $("form").submit(function(event) {
+                var formData = {
+                    nombre: $("#name").val(),
+                    razonSocial: $("#razonSocial").val(),
+                    direccion: $("#address").val(),
+                };
+
+                $.ajax({
+                    type: "PUT",
+                    url: "http://localhost:8080/api/v1/gapsi/ecommerce/proveedor/",
+                    data: JSON.stringify(formData),
+                    dataType: "json",
+                    contentType: "application/json",
+                    encode: true,
+                    success: function(res) {
+                        window.location.reload();
+                    },
+                    error: function(xhr, textStatus, errorThrown) {
+                        alert(xhr.responseText);
+                    }
+                }).done(function(data) {
+                    console.log(data);
+                });
+
+                event.preventDefault();
+            });
+
+            $("#tablaProveedor").on('click', '.button-primary', function() {
+                // get the current row
+                var currentRow = $(this).closest("tr");
+
+                var col1 = currentRow.find("td:eq(0)").text(); // get current row 1st TD value
+                var col2 = currentRow.find("td:eq(1)").text(); // get current row 2nd TD
+                var col3 = currentRow.find("td:eq(2)").text(); // get current row 3rd TD
+                var data = col1 + "\n" + col2 + "\n" + col3;
+                console.log(data)
+
+                var formData = {
+                    nombre: currentRow.find("td:eq(0)").text(),
+                    razonSocial: currentRow.find("td:eq(1)").text(),
+                    direccion: currentRow.find("td:eq(2)").text(),
+                };
+
+                $.ajax({
+                    type: "DELETE",
+                    url: "http://localhost:8080/api/v1/gapsi/ecommerce/proveedor/",
+                    data: JSON.stringify(formData),
+                    dataType: "json",
+                    contentType: "application/json",
+                    encode: true,
+                    success: function(res) {
+                        window.location.reload();
+                    }
+                }).done(function(data) {
+                    console.log(data);
+                });
+
+                event.preventDefault();
+            });
+
+        });
+    </script>
+</body>
+
+</html>

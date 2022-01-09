@@ -1,0 +1,274 @@
+[29-May-2019 05:25:28 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:25:28 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:25:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 10
+[29-May-2019 05:25:54 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:25:54 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:25:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 10
+[29-May-2019 05:27:10 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:27:10 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:27:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 10
+[29-May-2019 05:27:48 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:27:48 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:27:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 10
+[29-May-2019 05:33:09 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:33:09 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:33:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 10
+[29-May-2019 05:33:38 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:33:38 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:33:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 10
+[29-May-2019 05:34:53 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:34:53 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:34:53 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:34:53 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:34:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 10
+[29-May-2019 05:34:57 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:34:57 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:34:57 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:34:57 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:34:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 10
+[29-May-2019 05:35:22 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:35:22 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:35:22 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:35:22 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:35:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 10
+[29-May-2019 05:36:16 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:36:16 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:36:16 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:36:16 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:36:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 10
+[29-May-2019 05:39:23 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:39:23 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:39:23 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:39:23 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:39:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 10
+[29-May-2019 05:39:26 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:39:26 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:39:26 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:39:26 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:39:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 10
+[29-May-2019 05:39:27 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:39:27 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:39:27 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:39:27 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:39:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 10
+[29-May-2019 05:39:31 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:39:31 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:39:31 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:39:31 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:39:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 10
+[29-May-2019 05:39:40 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:39:40 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:39:40 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:39:40 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:39:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 10
+[29-May-2019 05:40:51 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:40:51 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:40:51 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:40:51 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:40:51 UTC] piiii
+[29-May-2019 05:40:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 11
+[29-May-2019 05:40:53 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:40:53 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:40:53 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:40:53 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:40:53 UTC] piiii
+[29-May-2019 05:40:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 11
+[29-May-2019 05:40:54 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:40:54 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:40:54 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:40:54 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:40:54 UTC] piiii
+[29-May-2019 05:40:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 11
+[29-May-2019 05:40:55 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:40:55 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:40:55 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:40:55 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:40:55 UTC] piiii
+[29-May-2019 05:40:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 11
+[29-May-2019 05:40:56 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:40:56 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:40:56 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:40:56 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:40:56 UTC] piiii
+[29-May-2019 05:40:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 11
+[29-May-2019 05:40:57 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:40:57 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:40:57 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:40:57 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:40:57 UTC] piiii
+[29-May-2019 05:40:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 11
+[29-May-2019 05:40:58 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:40:58 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:40:58 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:40:58 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:40:58 UTC] piiii
+[29-May-2019 05:40:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 11
+[29-May-2019 05:40:59 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:40:59 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:40:59 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:40:59 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:40:59 UTC] piiii
+[29-May-2019 05:40:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 11
+[29-May-2019 05:41:00 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:41:00 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:41:00 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:41:00 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:41:00 UTC] piiii
+[29-May-2019 05:41:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 11
+[29-May-2019 05:41:01 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:41:01 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:41:01 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:41:01 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:41:01 UTC] piiii
+[29-May-2019 05:41:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 11
+[29-May-2019 05:41:02 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:41:02 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:41:02 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:41:02 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:41:02 UTC] piiii
+[29-May-2019 05:41:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 11
+[29-May-2019 05:41:03 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:41:03 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:41:03 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:41:03 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:41:03 UTC] piiii
+[29-May-2019 05:41:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 11
+[29-May-2019 05:41:03 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:41:03 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:41:03 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:41:03 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:41:03 UTC] piiii
+[29-May-2019 05:41:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 11
+[29-May-2019 05:41:04 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:41:04 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:41:04 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:41:04 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:41:04 UTC] piiii
+[29-May-2019 05:41:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 11
+[29-May-2019 05:41:05 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:41:05 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:41:05 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:41:05 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:41:05 UTC] piiii
+[29-May-2019 05:41:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 11
+[29-May-2019 05:41:06 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:41:06 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:41:06 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:41:06 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:41:06 UTC] piiii
+[29-May-2019 05:41:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 11
+[29-May-2019 05:41:07 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:41:07 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:41:07 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:41:07 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:41:07 UTC] piiii
+[29-May-2019 05:41:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 11
+[29-May-2019 05:41:08 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:41:08 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 6
+[29-May-2019 05:41:08 UTC] PHP Warning:  include_once(../entity/deuda.php): failed to open stream: No such file or directory in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:41:08 UTC] PHP Warning:  include_once(): Failed opening '../entity/deuda.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 7
+[29-May-2019 05:41:08 UTC] piiii
+[29-May-2019 05:41:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 11
+[29-May-2019 05:45:22 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 10
+[29-May-2019 05:45:31 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 10
+[29-May-2019 05:45:31 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 10
+[29-May-2019 05:45:32 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/vwxe20h5f9g6/public_html/pagos/api_deuda.php on line 10

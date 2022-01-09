@@ -1,0 +1,38 @@
+[29-May-2019 05:52:20 UTC] noooooooooooo
+[29-May-2019 05:52:20 UTC] coneccion
+[29-May-2019 05:52:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Pagos::read() in /home/vwxe20h5f9g6/public_html/pagos/api/api_deuda.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api/api_deuda.php on line 20
+[29-May-2019 05:54:53 UTC] coneccion
+[29-May-2019 05:54:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Pagos::read() in /home/vwxe20h5f9g6/public_html/pagos/api/api_deuda.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api/api_deuda.php on line 18
+[29-May-2019 06:01:01 UTC] coneccion
+[29-May-2019 06:01:01 UTC] PHP Notice:  Undefined variable: id in /home/vwxe20h5f9g6/public_html/pagos/api/api_deuda.php on line 38
+[29-May-2019 06:01:01 UTC] PHP Warning:  Use of undefined constant pago - assumed 'pago' (this will throw an Error in a future version of PHP) in /home/vwxe20h5f9g6/public_html/pagos/api/api_deuda.php on line 39
+[29-May-2019 06:01:01 UTC] PHP Warning:  Use of undefined constant total - assumed 'total' (this will throw an Error in a future version of PHP) in /home/vwxe20h5f9g6/public_html/pagos/api/api_deuda.php on line 40
+[29-May-2019 06:01:01 UTC] PHP Warning:  Use of undefined constant nombre - assumed 'nombre' (this will throw an Error in a future version of PHP) in /home/vwxe20h5f9g6/public_html/pagos/api/api_deuda.php on line 41
+[29-May-2019 06:01:01 UTC] PHP Notice:  Undefined variable: id in /home/vwxe20h5f9g6/public_html/pagos/api/api_deuda.php on line 38
+[29-May-2019 06:01:01 UTC] PHP Warning:  Use of undefined constant pago - assumed 'pago' (this will throw an Error in a future version of PHP) in /home/vwxe20h5f9g6/public_html/pagos/api/api_deuda.php on line 39
+[29-May-2019 06:01:01 UTC] PHP Warning:  Use of undefined constant total - assumed 'total' (this will throw an Error in a future version of PHP) in /home/vwxe20h5f9g6/public_html/pagos/api/api_deuda.php on line 40
+[29-May-2019 06:01:01 UTC] PHP Warning:  Use of undefined constant nombre - assumed 'nombre' (this will throw an Error in a future version of PHP) in /home/vwxe20h5f9g6/public_html/pagos/api/api_deuda.php on line 41
+[29-May-2019 06:02:24 UTC] PHP Notice:  Undefined variable: id in /home/vwxe20h5f9g6/public_html/pagos/api/api_deuda.php on line 38
+[29-May-2019 06:02:24 UTC] PHP Warning:  Use of undefined constant pago - assumed 'pago' (this will throw an Error in a future version of PHP) in /home/vwxe20h5f9g6/public_html/pagos/api/api_deuda.php on line 39
+[29-May-2019 06:02:24 UTC] PHP Warning:  Use of undefined constant total - assumed 'total' (this will throw an Error in a future version of PHP) in /home/vwxe20h5f9g6/public_html/pagos/api/api_deuda.php on line 40
+[29-May-2019 06:02:24 UTC] PHP Warning:  Use of undefined constant nombre - assumed 'nombre' (this will throw an Error in a future version of PHP) in /home/vwxe20h5f9g6/public_html/pagos/api/api_deuda.php on line 41
+[29-May-2019 06:02:24 UTC] PHP Notice:  Undefined variable: id in /home/vwxe20h5f9g6/public_html/pagos/api/api_deuda.php on line 38
+[29-May-2019 06:02:24 UTC] PHP Warning:  Use of undefined constant pago - assumed 'pago' (this will throw an Error in a future version of PHP) in /home/vwxe20h5f9g6/public_html/pagos/api/api_deuda.php on line 39
+[29-May-2019 06:02:24 UTC] PHP Warning:  Use of undefined constant total - assumed 'total' (this will throw an Error in a future version of PHP) in /home/vwxe20h5f9g6/public_html/pagos/api/api_deuda.php on line 40
+[29-May-2019 06:02:24 UTC] PHP Warning:  Use of undefined constant nombre - assumed 'nombre' (this will throw an Error in a future version of PHP) in /home/vwxe20h5f9g6/public_html/pagos/api/api_deuda.php on line 41
+[29-May-2019 06:09:47 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/vwxe20h5f9g6/public_html/pagos/api/api_deuda.php on line 43
+[29-May-2019 06:09:47 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/vwxe20h5f9g6/public_html/pagos/api/api_deuda.php on line 43
+[06-Jun-2019 05:49:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Deuda' not found in /home/vwxe20h5f9g6/public_html/pagos/api/api_pagos.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api/api_pagos.php on line 15
+[06-Jun-2019 05:50:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Deuda' not found in /home/vwxe20h5f9g6/public_html/pagos/api/api_pagos.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/vwxe20h5f9g6/public_html/pagos/api/api_pagos.php on line 15

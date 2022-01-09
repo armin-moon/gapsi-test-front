@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.88.1">
+    <title>Signin Template · Bootstrap v5.1</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/sign-in/">
+
+    <!-- Bootstrap core CSS -->
+    <link href="dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="signin.css" rel="stylesheet">
+</head>
+
+<body class="text-center">
+
+    <main class="form-signin">
+        <form>
+            <img class="mb-4" src="http://www.gapsi.com.mx/img/logo.png" alt="" width="72" height="57">
+            <h1 id="welcome" class="h3 mb-3 fw-normal"></h1>
+            <a href="proveedores.html" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Continuar</a>
+            <p id="version" class="mt-5 mb-3 text-muted">&copy; armin-moon </p>
+        </form>
+    </main>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="dist/js/bootstrap.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $.ajax({
+                url: "http://localhost:8080/api/v1/gapsi/ecommerce/welcome"
+            }).then(function(json) {
+                $('#welcome').append(json);
+            });
+
+            $.ajax({
+                url: "http://localhost:8080/api/v1/gapsi/ecommerce/version"
+            }).then(function(json) {
+                $('#version').append(" v" + json);
+            });
+        });
+    </script>
+
+</body>
+
+</html>
