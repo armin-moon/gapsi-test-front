@@ -1,6 +1,6 @@
 # gapsi-test-front
 
-Proyecto backet para completar el test de desarollo Java para Gapsi
+Proyecto front para completar el test de desarollo Java para Gapsi
 
 ## Tecnología usada 🛠️
 
